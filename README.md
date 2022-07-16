@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarsehrawat
 - 👀 I’m interested in programming and designing
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning new technologies
 - 📫 Reach me : sagar02sehrawat@gmail.com
 
 <!---
